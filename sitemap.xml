@@ -9,4 +9,10 @@
       <image:loc>http://estudybeeaintranet.com/images/asset%2029.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/values.html</loc>
+    <lastmod>2020-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
