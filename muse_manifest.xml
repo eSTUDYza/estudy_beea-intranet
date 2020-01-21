@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579607863910">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579608302785">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="460763634" ref="index"/>
+    <file name="index.css" crc="213818015" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -48,5 +48,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="56604844" seo="true" mt="1579607821748" redirect="true"/>
+  <file name="index.html" crc="3891734704" seo="true" mt="1579608263956" redirect="true"/>
 </manifest>
