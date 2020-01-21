@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579615174236">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579615651769">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3839747668" ref="index"/>
+    <file name="index.css" crc="4223016320" ref="index"/>
     <file name="values.css" crc="290498169" ref="values"/>
   </folder>
   <folder name="scripts">
@@ -53,6 +53,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="99813711" seo="true" mt="1579615156348" redirect="true"/>
+  <file name="index.html" crc="420184671" seo="true" mt="1579615619014" redirect="true"/>
   <file name="values.html" crc="3846782786" seo="true" mt="1579613894609" redirect="true"/>
 </manifest>
