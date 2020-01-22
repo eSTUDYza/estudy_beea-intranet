@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579674406950">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579684018713">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4156902313" ref="index"/>
+    <file name="index.css" crc="503530969" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,10 +16,10 @@
     <file name="activity pic.png" crc="4028100060" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="estudy pic.png" crc="4254380012" ref="index">
+    <file name="beea pic.png" crc="3877932954" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="beea pic.png" crc="3877932954" ref="index">
+    <file name="estudy pic.png" crc="4254380012" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="activity normal.png" crc="493786277" ref="index">
@@ -48,5 +48,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4148808052" seo="true" mt="1579674398280" redirect="true"/>
+  <file name="index.html" crc="4212680624" seo="true" mt="1579683447222" redirect="true"/>
 </manifest>
