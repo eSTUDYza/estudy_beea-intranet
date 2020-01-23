@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579684018713">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579780164179">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="503530969" ref="index"/>
+    <file name="index.css" crc="4167987575" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,32 +11,24 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="activity pic.png" crc="4028100060" ref="index">
+    <file name="activity normal.png" crc="4225867502" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="beea pic.png" crc="3877932954" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="estudy pic.png" crc="4254380012" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="activity normal.png" crc="493786277" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="activity hover-u194-r-fr.png" crc="4097491277" ref="index"/>
-    <file name="estudy normal.png" crc="516003038" ref="index">
+    <file name="activity hover-u194-r-fr.png" crc="4185342313" ref="index"/>
+    <file name="estudy normal.png" crc="3787797145" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="esyudy hover-u247-r-fr.png" crc="522303183" ref="index"/>
-    <file name="beea normal.png" crc="4130309427" ref="index">
+    <file name="beea normal.png" crc="165492524" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="beea hover-u253-r-fr.png" crc="152182873" ref="index"/>
-    <file name="asset 29.png" crc="87634115" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="74892.jpg" crc="4245387158" ref="index">
       <caption webpage="index" alt=""/>
@@ -47,6 +39,28 @@
     <file name="building.jpg" crc="429290667" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="beea catalogue.png" crc="213057199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover.png" crc="400797227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="credible.png" crc="295690226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foresight.png" crc="430749765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knowlege.png" crc="4265428456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loyal.png" crc="200650348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="responsible.png" crc="180534350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4212680624" seo="true" mt="1579683447222" redirect="true"/>
+  <file name="index.html" crc="243912373" seo="true" mt="1579780142891" redirect="true"/>
 </manifest>

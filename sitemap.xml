@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://estudybeeaintranet.com/index.html</loc>
-    <lastmod>2020-01-22</lastmod>
+    <lastmod>2020-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/asset%2029.png</image:loc>
+      <image:loc>http://estudybeeaintranet.com/images/beea%20catalogue.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/cover.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/credible.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/foresight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/knowlege.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/loyal.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/responsible.png</image:loc>
     </image:image>
   </url>
 </urlset>
