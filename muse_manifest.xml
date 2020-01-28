@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580205545212">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580209545304">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3797297659" ref="index"/>
-    <file name="estudy.css" crc="4019044447" ref="estudy"/>
+    <file name="estudy.css" crc="4202172862" ref="estudy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy"/>
@@ -43,9 +43,6 @@
     <file name="beea catalogue.png" crc="213057199" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover.png" crc="400797227" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="credible.png" crc="295690226" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -62,22 +59,19 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:estudy"/>
-    <file name="cover2.png" crc="454802996" seo="true" ref="estudy">
+    <file name="integrity.png" crc="4019789874" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
-    <file name="integrity.png" crc="432054643" seo="true" ref="estudy">
+    <file name="mission.png" crc="379529922" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
-    <file name="mission.png" crc="3814582383" seo="true" ref="estudy">
+    <file name="opportunity.png" crc="3965902883" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
-    <file name="opportunity.png" crc="4087935552" seo="true" ref="estudy">
+    <file name="relationship.png" crc="40065289" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
-    <file name="relationship.png" crc="3874984274" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="teamwork.png" crc="3841145073" seo="true" ref="estudy">
+    <file name="teamwork.png" crc="3806997008" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
     <file name="activity normal-u2264-fr.png" crc="4098753052" ref="estudy"/>
@@ -98,7 +92,19 @@
     <file name="banner-3.jpg" crc="4122568866" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
+    <file name="innovation.png" crc="295944712" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="results.png" crc="3842045565" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="estudy cover.png" crc="3911415445" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="bee cover.png" crc="400797227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3930374472" seo="true" mt="1580205519378" redirect="true"/>
-  <file name="estudy.html" crc="3849161858" seo="true" mt="1580205466352" redirect="true"/>
+  <file name="index.html" crc="47898435" seo="true" mt="1580209512823" redirect="true"/>
+  <file name="estudy.html" crc="4158200301" seo="true" mt="1580209345020" redirect="true"/>
 </manifest>

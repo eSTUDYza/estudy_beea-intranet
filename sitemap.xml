@@ -9,9 +9,6 @@
       <image:loc>http://estudybeeaintranet.com/images/beea%20catalogue.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/cover.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://estudybeeaintranet.com/images/credible.png</image:loc>
     </image:image>
     <image:image>
@@ -26,15 +23,15 @@
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/responsible.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/bee%20cover.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://estudybeeaintranet.com/estudy.html</loc>
     <lastmod>2020-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/cover2.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/integrity.png</image:loc>
     </image:image>
@@ -61,6 +58,15 @@
     </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/banner-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/innovation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/results.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20cover.png</image:loc>
     </image:image>
   </url>
 </urlset>
