@@ -27,4 +27,40 @@
       <image:loc>http://estudybeeaintranet.com/images/responsible.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/estudy.html</loc>
+    <lastmod>2020-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/cover2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/integrity.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/mission.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/opportunity.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/relationship.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/teamwork.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20catalogue.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/competency-models.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/l_d-return-on-investment-models.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/banner-3.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>

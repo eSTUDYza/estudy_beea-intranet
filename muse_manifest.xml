@@ -1,20 +1,21 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1579782398097">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580203949021">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4167987575" ref="index"/>
+    <file name="index.css" crc="137120337" ref="index"/>
+    <file name="estudy.css" crc="4019044447" ref="estudy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy"/>
+    <file name="museutils.js" crc="340535759" ref="index:estudy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:estudy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:estudy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:estudy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:estudy"/>
+    <file name="require.js" crc="7928878" ref="index:estudy"/>
+    <file name="webpro.js" crc="4059564322" ref="index:estudy"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:estudy"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:estudy"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:estudy"/>
   </folder>
   <folder name="images">
     <file name="activity normal.png" crc="4225867502" ref="index">
@@ -29,7 +30,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="beea hover-u253-r-fr.png" crc="152182873" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:estudy"/>
     <file name="74892.jpg" crc="4245387158" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -60,7 +61,44 @@
     <file name="responsible.png" crc="180534350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:estudy"/>
+    <file name="cover2.png" crc="454802996" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="integrity.png" crc="432054643" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="mission.png" crc="3814582383" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="opportunity.png" crc="4087935552" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="relationship.png" crc="3874984274" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="teamwork.png" crc="3841145073" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="activity normal-u2264-fr.png" crc="4098753052" ref="estudy"/>
+    <file name="activity hover-u2264-r-fr.png" crc="4282503064" ref="estudy"/>
+    <file name="estudy normal-u2254-fr.png" crc="4055254080" ref="estudy"/>
+    <file name="esyudy hover-u2254-r-fr.png" crc="3922350787" ref="estudy"/>
+    <file name="beea normal-u2270-fr.png" crc="505331230" ref="estudy"/>
+    <file name="beea hover-u2270-r-fr.png" crc="33002972" ref="estudy"/>
+    <file name="estudy catalogue.png" crc="314091474" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="competency-models.png" crc="119344445" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="l_d-return-on-investment-models.png" crc="524741613" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
+    <file name="banner-3.jpg" crc="4122568866" seo="true" ref="estudy">
+      <caption webpage="estudy" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="394916000" seo="true" mt="1579782387814" redirect="true"/>
+  <file name="index.html" crc="262996925" seo="true" mt="1579786273770" redirect="true"/>
+  <file name="estudy.html" crc="441856846" seo="true" mt="1580203906065" redirect="true"/>
 </manifest>
