@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580377373885">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580384041727">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3797297659" ref="index"/>
-    <file name="estudy.css" crc="12644256" ref="estudy"/>
+    <file name="estudy.css" crc="3896644345" ref="estudy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy"/>
@@ -104,31 +104,7 @@
     <file name="bee cover.png" crc="400797227" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="estudy cover62x20.png" crc="4091350922" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="integrity62x20.png" crc="138808927" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="opportunity62x20.png" crc="3852579208" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="results62x20.png" crc="6102637" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="innovation62x20.png" crc="529204552" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="mission62x20.png" crc="97270795" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="relationship62x20.png" crc="4217009013" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="teamwork62x20.png" crc="3956702731" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
   </folder>
   <file name="index.html" crc="47898435" seo="true" mt="1580209512823" redirect="true"/>
-  <file name="estudy.html" crc="336332111" seo="true" mt="1580377277316" redirect="true"/>
+  <file name="estudy.html" crc="434503187" seo="true" mt="1580384027651" redirect="true"/>
 </manifest>
