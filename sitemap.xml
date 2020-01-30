@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://estudybeeaintranet.com/estudy.html</loc>
-    <lastmod>2020-01-28</lastmod>
+    <lastmod>2020-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -67,6 +67,30 @@
     </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/estudy%20cover.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20cover62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/integrity62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/opportunity62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/results62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/innovation62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/mission62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/relationship62x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/teamwork62x20.png</image:loc>
     </image:image>
   </url>
 </urlset>
