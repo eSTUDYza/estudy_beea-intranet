@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580804219289">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1580804578955">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3797297659" ref="index"/>
@@ -80,7 +80,7 @@
     <file name="esyudy hover-u2254-r-fr.png" crc="3922350787" ref="estudy"/>
     <file name="beea normal-u2270-fr.png" crc="505331230" ref="estudy"/>
     <file name="beea hover-u2270-r-fr.png" crc="33002972" ref="estudy"/>
-    <file name="estudy catalogue.png" crc="314091474" seo="true" ref="estudy">
+    <file name="estudy catalogue.png" crc="4268289636" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
     <file name="competency-models.png" crc="119344445" seo="true" ref="estudy">
@@ -106,5 +106,5 @@
     </file>
   </folder>
   <file name="index.html" crc="47898435" seo="true" mt="1580209512823" redirect="true"/>
-  <file name="estudy.html" crc="106998933" seo="true" mt="1580804082924" redirect="true"/>
+  <file name="estudy.html" crc="4093842395" seo="true" mt="1580804554510" redirect="true"/>
 </manifest>
