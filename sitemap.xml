@@ -119,5 +119,8 @@
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/teamwork2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20cover2.png</image:loc>
+    </image:image>
   </url>
 </urlset>
