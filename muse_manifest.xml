@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1598274099169">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1599540895671">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="estudy.css" crc="3947067611" ref="estudy"/>
-    <file name="estudy-entity.css" crc="60899565" ref="estudy-entity"/>
+    <file name="estudy-entity.css" crc="118468346" ref="estudy-entity"/>
     <file name="index.css" crc="3898632593" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -67,36 +67,36 @@
       <caption webpage="estudy" alt=""/>
     </file>
     <file name="estudy cover.png" crc="481295281" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="mission.png" crc="4286750781" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="innovation.png" crc="64162475" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="integrity.png" crc="4054704420" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="opportunity.png" crc="4029528367" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="relationship.png" crc="4064759838" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="results.png" crc="3832506230" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="teamwork.png" crc="450168777" seo="true" ref="estudy:estudy-entity">
-      <caption webpage="estudy" alt=""/>
       <caption webpage="estudy-entity" alt=""/>
+      <caption webpage="estudy" alt=""/>
     </file>
     <file name="activity normal-u2264-fr.png" crc="4098753052" ref="estudy"/>
     <file name="activity hover-u2264-r-fr.png" crc="4282503064" ref="estudy"/>
@@ -116,5 +116,5 @@
   </folder>
   <file name="index.html" crc="4016905176" seo="true" mt="1598272997431" redirect="true"/>
   <file name="estudy.html" crc="4178608927" seo="true" mt="1580804554510" redirect="true"/>
-  <file name="estudy-entity.html" crc="36708968" seo="true" mt="1598272925484" redirect="true"/>
+  <file name="estudy-entity.html" crc="4114886161" seo="true" mt="1599540859331" redirect="true"/>
 </manifest>
