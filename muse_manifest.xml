@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1600681096621">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1600751552577">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="estudy.css" crc="91082230" ref="estudy"/>
     <file name="estudy-entity.css" crc="4194679245" ref="estudy-entity"/>
     <file name="index.css" crc="3947443632" ref="index"/>
-    <file name="marketing.css" crc="200615148" ref="marketing"/>
+    <file name="marketing.css" crc="4080222603" ref="marketing"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy:estudy-entity:marketing"/>
@@ -162,12 +162,12 @@
     <file name="teamworke62x20.png" crc="3956702731" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
-    <file name="marketing catalogue.png" crc="198415709" seo="true" ref="marketing">
+    <file name="marketing catalogue.png" crc="4009093059" seo="true" ref="marketing">
       <caption webpage="marketing" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4152084749" seo="true" mt="1600678886768" redirect="true"/>
   <file name="estudy.html" crc="4138547497" seo="true" mt="1599817570706" redirect="true"/>
   <file name="estudy-entity.html" crc="251564839" seo="true" mt="1599646895632" redirect="true"/>
-  <file name="marketing.html" crc="339152217" seo="true" mt="1600681074358" redirect="true"/>
+  <file name="marketing.html" crc="484427228" seo="true" mt="1600751542877" redirect="true"/>
 </manifest>
