@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://estudybeeaintranet.com/index.html</loc>
-    <lastmod>2020-09-21</lastmod>
+    <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/beea%20catalogue.png</image:loc>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20catalogue%20new%202022.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/bee%20cover.png</image:loc>
@@ -29,17 +29,11 @@
   </url>
   <url>
     <loc>http://estudybeeaintranet.com/estudy.html</loc>
-    <lastmod>2020-09-11</lastmod>
+    <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/estudy%20catalogue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/competency-models.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/l_d-return-on-investment-models.png</image:loc>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20catalogue%20new%202022.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/banner-3.jpg</image:loc>
@@ -102,13 +96,13 @@
       <image:loc>http://estudybeeaintranet.com/images/estudy%20cover.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/mission.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://estudybeeaintranet.com/images/innovation.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/integrity.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/mission.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/opportunity.png</image:loc>
@@ -125,11 +119,11 @@
   </url>
   <url>
     <loc>http://estudybeeaintranet.com/marketing.html</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://estudybeeaintranet.com/images/marketing%20catalogue.png</image:loc>
+      <image:loc>http://estudybeeaintranet.com/images/estudy%20catalogue%20new%202022.png</image:loc>
     </image:image>
   </url>
 </urlset>

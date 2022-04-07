@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1600780609149">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1649313878332">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="estudy.css" crc="91082230" ref="estudy"/>
+    <file name="estudy.css" crc="4113670651" ref="estudy"/>
+    <file name="marketing.css" crc="3848097494" ref="marketing"/>
+    <file name="index.css" crc="17383346" ref="index"/>
     <file name="estudy-entity.css" crc="4194679245" ref="estudy-entity"/>
-    <file name="index.css" crc="3947443632" ref="index"/>
-    <file name="marketing.css" crc="4080222603" ref="marketing"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy:estudy-entity:marketing"/>
@@ -32,16 +32,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="beea hover-u253-r-fr.png" crc="152182873" ref="index"/>
-    <file name="beea catalogue.png" crc="213057199" seo="true" ref="index">
+    <file name="estudy catalogue new 2022.png" crc="3922881554" seo="true" ref="index:estudy:marketing">
       <caption webpage="index" alt=""/>
+      <caption webpage="estudy" alt=""/>
+      <caption webpage="marketing" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:estudy:estudy-entity:marketing"/>
-    <file name="74892.jpg" crc="4245387158" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fotolia_135610715_subscription_monthly_m.jpg" crc="3758452933" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="building.jpg" crc="429290667" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -64,53 +60,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:estudy:estudy-entity"/>
-    <file name="estudy catalogue.png" crc="4268289636" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="estudy cover.png" crc="4077861489" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="mission.png" crc="513573820" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="innovation.png" crc="480485816" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="integrity.png" crc="4007994406" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="opportunity.png" crc="224437424" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="relationship.png" crc="380995853" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="results.png" crc="3947519154" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="teamwork.png" crc="276364982" seo="true" ref="estudy-entity">
-      <caption webpage="estudy-entity" alt=""/>
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="activity normal-u2264-fr.png" crc="4098753052" ref="estudy"/>
-    <file name="activity hover-u2264-r-fr.png" crc="4282503064" ref="estudy"/>
-    <file name="estudy normal-u2254-fr.png" crc="4055254080" ref="estudy"/>
-    <file name="esyudy hover-u2254-r-fr.png" crc="3922350787" ref="estudy"/>
-    <file name="beea normal-u2270-fr.png" crc="505331230" ref="estudy"/>
-    <file name="beea hover-u2270-r-fr.png" crc="33002972" ref="estudy"/>
-    <file name="competency-models.png" crc="119344445" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
-    <file name="l_d-return-on-investment-models.png" crc="524741613" seo="true" ref="estudy">
-      <caption webpage="estudy" alt=""/>
-    </file>
     <file name="banner-3.jpg" crc="4122568866" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
@@ -162,12 +111,39 @@
     <file name="teamworke62x20.png" crc="3956702731" seo="true" ref="estudy">
       <caption webpage="estudy" alt=""/>
     </file>
-    <file name="marketing catalogue.png" crc="4009093059" seo="true" ref="marketing">
-      <caption webpage="marketing" alt=""/>
+    <file name="activity normal-u2264-fr.png" crc="4098753052" ref="estudy"/>
+    <file name="activity hover-u2264-r-fr.png" crc="4282503064" ref="estudy"/>
+    <file name="estudy normal-u2254-fr.png" crc="4055254080" ref="estudy"/>
+    <file name="esyudy hover-u2254-r-fr.png" crc="3922350787" ref="estudy"/>
+    <file name="beea normal-u2270-fr.png" crc="505331230" ref="estudy"/>
+    <file name="beea hover-u2270-r-fr.png" crc="33002972" ref="estudy"/>
+    <file name="estudy cover.png" crc="4077861489" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="innovation.png" crc="480485816" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="integrity.png" crc="4007994406" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="mission.png" crc="513573820" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="opportunity.png" crc="224437424" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="relationship.png" crc="380995853" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="results.png" crc="3947519154" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
+    </file>
+    <file name="teamwork.png" crc="276364982" seo="true" ref="estudy-entity">
+      <caption webpage="estudy-entity" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4152084749" seo="true" mt="1600678886768" redirect="true"/>
-  <file name="estudy.html" crc="4138547497" seo="true" mt="1599817570706" redirect="true"/>
-  <file name="estudy-entity.html" crc="251564839" seo="true" mt="1599646895632" redirect="true"/>
-  <file name="marketing.html" crc="3997106887" seo="true" mt="1600780584821" redirect="true"/>
+  <file name="index.html" crc="3981830695" seo="true" mt="1649313830746" redirect="true"/>
+  <file name="estudy.html" crc="361779161" seo="true" mt="1649313845777" redirect="true"/>
+  <file name="estudy-entity.html" crc="4250416549" seo="true" mt="1599646895632" redirect="true"/>
+  <file name="marketing.html" crc="4290000422" seo="true" mt="1649313395475" redirect="true"/>
 </manifest>
