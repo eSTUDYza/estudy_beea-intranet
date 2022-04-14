@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1649313878332">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1649938112908">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="estudy.css" crc="4113670651" ref="estudy"/>
+    <file name="estudy.css" crc="3922463743" ref="estudy"/>
     <file name="marketing.css" crc="3848097494" ref="marketing"/>
     <file name="index.css" crc="17383346" ref="index"/>
     <file name="estudy-entity.css" crc="4194679245" ref="estudy-entity"/>
@@ -142,8 +142,8 @@
       <caption webpage="estudy-entity" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3981830695" seo="true" mt="1649313830746" redirect="true"/>
-  <file name="estudy.html" crc="361779161" seo="true" mt="1649313845777" redirect="true"/>
+  <file name="index.html" crc="4170462077" seo="true" mt="1649938041368" redirect="true"/>
+  <file name="estudy.html" crc="320341812" seo="true" mt="1649938074856" redirect="true"/>
   <file name="estudy-entity.html" crc="4250416549" seo="true" mt="1599646895632" redirect="true"/>
-  <file name="marketing.html" crc="4290000422" seo="true" mt="1649313395475" redirect="true"/>
+  <file name="marketing.html" crc="289885363" seo="true" mt="1649938105521" redirect="true"/>
 </manifest>
