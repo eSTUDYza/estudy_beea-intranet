@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://estudybeeaintranet.com/index.html</loc>
-    <lastmod>2022-05-24</lastmod>
+    <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://estudybeeaintranet.com/estudy.html</loc>
-    <lastmod>2022-05-24</lastmod>
+    <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,11 +53,71 @@
   </url>
   <url>
     <loc>http://estudybeeaintranet.com/marketing.html</loc>
-    <lastmod>2022-05-24</lastmod>
+    <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://estudybeeaintranet.com/images/estudy%20catalogue%20new%202022.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/estudy-comp.html</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/banner-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/compliance%20cat.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/bee-comp.html</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/compliance%20cat2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/marketing-comp.html</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/compliance%20cat.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/bee-ops.html</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/operations%20cat.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/estudy-ops.html</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/banner-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/operations%20cat.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudybeeaintranet.com/marketing-ops.html</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudybeeaintranet.com/images/operations%20cat.png</image:loc>
     </image:image>
   </url>
 </urlset>

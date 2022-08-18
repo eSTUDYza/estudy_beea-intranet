@@ -1,37 +1,46 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1653395738543">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudybeeaintranet.com" resolutions="1x" timestamp="1660828036876">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="estudy.css" crc="3833766998" ref="estudy"/>
-    <file name="marketing.css" crc="3848097494" ref="marketing"/>
     <file name="index.css" crc="227173932" ref="index"/>
     <file name="estudy-entity.css" crc="4194679245" ref="estudy-entity"/>
+    <file name="estudy.css" crc="359703" ref="estudy"/>
+    <file name="marketing-ops.css" crc="3891276092" ref="marketing-ops"/>
+    <file name="marketing.css" crc="3848097494" ref="marketing"/>
+    <file name="bee-ops.css" crc="323056627" ref="bee-ops"/>
+    <file name="estudy-ops.css" crc="396853334" ref="estudy-ops"/>
+    <file name="bee-comp.css" crc="276980605" ref="bee-comp"/>
+    <file name="marketing-comp.css" crc="4208103122" ref="marketing-comp"/>
+    <file name="estudy-comp.css" crc="3761096845" ref="estudy-comp"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy:estudy-entity:marketing"/>
-    <file name="museutils.js" crc="3939489907" ref="index:estudy:estudy-entity:marketing"/>
-    <file name="whatinput.js" crc="86476730" ref="index:estudy:estudy-entity:marketing"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:estudy:estudy-entity:marketing"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:estudy:estudy-entity:marketing"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
+    <file name="museutils.js" crc="3939489907" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
+    <file name="whatinput.js" crc="86476730" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:bee-comp:bee-ops"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
+    <file name="require.js" crc="4177726516" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
     <file name="webpro.js" crc="3856315280" ref="estudy-entity"/>
     <file name="musewpslideshow.js" crc="244150766" ref="estudy-entity"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="estudy-entity"/>
     <file name="touchswipe.js" crc="3888935200" ref="estudy-entity"/>
-    <file name="require.js" crc="4177726516" ref="index:estudy:estudy-entity:marketing"/>
   </folder>
   <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:estudy:estudy-entity:marketing:estudy-comp:bee-comp:marketing-comp:bee-ops:estudy-ops:marketing-ops"/>
     <file name="estudy catalogue new 2022.png" crc="3922881554" seo="true" ref="index:estudy:marketing">
       <caption webpage="index" alt=""/>
+      <caption webpage="estudy" alt=""/>
       <caption webpage="marketing" alt=""/>
-      <caption webpage="estudy" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:estudy:estudy-entity:marketing"/>
-    <file name="building.jpg" crc="429290667" ref="index">
+    <file name="building.jpg" crc="429290667" ref="index:bee-comp:bee-ops">
       <caption webpage="index" alt=""/>
+      <caption webpage="bee-ops" alt=""/>
+      <caption webpage="bee-comp" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="estudy-entity"/>
-    <file name="banner-3.jpg" crc="4122568866" seo="true" ref="estudy">
+    <file name="banner-3.jpg" crc="4122568866" seo="true" ref="estudy:estudy-comp:estudy-ops">
       <caption webpage="estudy" alt=""/>
+      <caption webpage="estudy-comp" alt=""/>
+      <caption webpage="estudy-ops" alt=""/>
     </file>
     <file name="estudy cover.png" crc="4077861489" seo="true" ref="estudy-entity">
       <caption webpage="estudy-entity" alt=""/>
@@ -57,9 +66,28 @@
     <file name="teamwork.png" crc="276364982" seo="true" ref="estudy-entity">
       <caption webpage="estudy-entity" alt=""/>
     </file>
+    <file name="loading.gif" crc="3815509949" ref="estudy-entity"/>
+    <file name="compliance cat.png" crc="387257753" seo="true" ref="estudy-comp:marketing-comp">
+      <caption webpage="estudy-comp" alt=""/>
+      <caption webpage="marketing-comp" alt=""/>
+    </file>
+    <file name="compliance cat2.png" crc="387257753" seo="true" ref="bee-comp">
+      <caption webpage="bee-comp" alt=""/>
+    </file>
+    <file name="operations cat.png" crc="4285793572" seo="true" ref="bee-ops:estudy-ops:marketing-ops">
+      <caption webpage="bee-ops" alt=""/>
+      <caption webpage="marketing-ops" alt=""/>
+      <caption webpage="estudy-ops" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4063778084" seo="true" mt="1653395518503" redirect="true"/>
-  <file name="estudy.html" crc="366587520" seo="true" mt="1653395098178" redirect="true"/>
-  <file name="estudy-entity.html" crc="4250416549" seo="true" mt="1599646895632" redirect="true"/>
-  <file name="marketing.html" crc="4011368910" seo="true" mt="1653395501720" redirect="true"/>
+  <file name="index.html" crc="4277661321" seo="true" mt="1660827900801" redirect="true"/>
+  <file name="estudy.html" crc="4232315723" seo="true" mt="1660827911715" redirect="true"/>
+  <file name="estudy-entity.html" crc="4014117627" seo="true" mt="1599646895632" redirect="true"/>
+  <file name="marketing.html" crc="4272820261" seo="true" mt="1660827796439" redirect="true"/>
+  <file name="estudy-comp.html" crc="3946008572" seo="true" mt="1660827763816" redirect="true"/>
+  <file name="bee-comp.html" crc="4175703539" seo="true" mt="1660827753962" redirect="true"/>
+  <file name="marketing-comp.html" crc="216623288" seo="true" mt="1660827769595" redirect="true"/>
+  <file name="bee-ops.html" crc="75107717" seo="true" mt="1660827727265" redirect="true"/>
+  <file name="estudy-ops.html" crc="3764180783" seo="true" mt="1660827699194" redirect="true"/>
+  <file name="marketing-ops.html" crc="3953681751" seo="true" mt="1660827709639" redirect="true"/>
 </manifest>
